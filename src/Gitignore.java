@@ -4,6 +4,7 @@ public class Gitignore {
         System.out.println("Git ignore deneme 1");
         System.out.println("Git ignore deneme 2");
         System.out.println("Git ignore deneme Branch");
+        System.out.println("Git ignore deneme Branch 2");
 
 
     }
